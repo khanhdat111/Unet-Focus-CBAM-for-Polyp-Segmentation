@@ -30,7 +30,7 @@ learning_rate = 1e-4
 optimizer = tf.keras.optimizers.AdamW(learning_rate=learning_rate, weight_decay= 1e-4)
 model.compile(optimizer=optimizer, loss=dice_metric_loss , metrics=['acc'])
 
-EPOCHS = 1000
+EPOCHS = #your expect epoch
 min_loss_for_saving = 0.2
 
 for epoch in range(EPOCHS):
