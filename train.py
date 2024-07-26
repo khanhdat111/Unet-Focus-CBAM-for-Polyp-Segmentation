@@ -4,7 +4,7 @@ from tensorflow.keras.callbacks import ModelCheckpoint,ReduceLROnPlateau,EarlySt
 
 from CustomLayers.DataAugmentaion import augment_images
 from ModelArchitecture.DiceLoss import dice_metric_loss
-from ModelArchitecture.Unet_ResFusionPlus import create_model
+from ModelArchitecture.UnetFocus_CBAM import create_model
 from ImageLoader.ImageLoader2D import load_data
 
 #Prepare data:
