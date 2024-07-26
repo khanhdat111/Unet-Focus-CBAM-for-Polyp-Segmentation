@@ -22,7 +22,7 @@ The U-Net Focus+ CBAM model has been tested on multiple datasets, including CVC-
 
 ## Results
 The model's effectiveness can be quantified through its performance on various datasets
-![Results](Images/fig2.png)
+<img src="Images/fig2.png" alt="Results" width="800" height="600"/>
 
 ## Visualization with Grad-CAM
 ![Visualization with Grad-CAM](Images/fig15.png)
