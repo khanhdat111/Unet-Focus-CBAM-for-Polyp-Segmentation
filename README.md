@@ -41,6 +41,6 @@ To train the model, simply run the training script `train.py`. Ensure that your 
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/khanhdat111/Unet-Focus-CBAM.git
-cd Unet-Focus-CBAM
+git clone https://github.com/khanhdat111/Unet-Focus-CBAM-for-Polyp-Segmentation.git
+cd Unet-Focus-CBAM-for-Polyp-Segmentation
 pip install -r requirements.txt
