@@ -17,7 +17,7 @@ The U-Net Focus+ CBAM model has been tested on multiple datasets, including CVC-
 
 ## Model Architecture
 
-![Model Architecture](fig9.png)
+![Model Architecture](Images/fig9.png)
 
 ## Running the Model
 
@@ -25,7 +25,7 @@ To train the model, simply run the training script `train.py`. Ensure that your 
 
 ## Results
 The model's effectiveness can be quantified through its performance on various datasets. For example, the following metrics can be observed:
-![Results](Images/)
+![Results](Images/Screenshot 2024-07-26 221023.png)
 
 ### Prerequisites
 - Python
