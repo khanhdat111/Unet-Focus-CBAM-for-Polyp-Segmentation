@@ -45,3 +45,8 @@ accuracy_test = accuracy_score(np.ndarray.flatten(np.array(Y_test, dtype=bool)),
 
 
 print("Accuracy finished")
+
+print(f"DSC: {dice_test}, mIOU: {miou_test}, Precision: {precision_test}, Recall: {recall_test}, Acc: {accuracy_test}")
+
+#Showing predict images
+plot_multiple_images(X_test, Y_test, prediction_test, 0, 9)
