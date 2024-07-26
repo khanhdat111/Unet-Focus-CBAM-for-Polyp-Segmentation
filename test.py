@@ -1,4 +1,5 @@
 from sklearn.metrics import jaccard_score, accuracy_score, f1_score
+from plot_predict_images import plot_multiple_images
 
 from ModelArchitecture.DiceLoss import dice_metric_loss
 from ModelArchitecture.UnetFocus_CBAM import create_model
