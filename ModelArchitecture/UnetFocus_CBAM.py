@@ -12,7 +12,7 @@ interpolation = "nearest"
 def create_model(img_height, img_width, input_chanels, out_classes, starting_filters):
     input_layer = tf.keras.layers.Input((img_height, img_width, input_chanels))
 
-    print('Starting U-Net-CBAM')
+    print('Starting U-Net Focus-CBAM')
 
     p1 = Conv2D(starting_filters * 2, 2, strides=2, padding='same')(input_layer)
     p1cb = cbam_block(p1)
