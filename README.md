@@ -17,7 +17,7 @@ The U-Net Focus+ CBAM model has been tested on multiple datasets, including CVC-
 
 ## Model Architecture
 
-![Model Architecture](model.png)
+![Model Architecture](fig9.png)
 
 ## Usage
 
