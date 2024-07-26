@@ -25,7 +25,7 @@ To train the model, simply run the training script `train.py`. Ensure that your 
 
 ## Results
 The model's effectiveness can be quantified through its performance on various datasets. For example, the following metrics can be observed:
-
+![Results](Images/)
 
 ### Prerequisites
 - Python
