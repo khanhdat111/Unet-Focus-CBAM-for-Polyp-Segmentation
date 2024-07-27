@@ -27,6 +27,13 @@ The model's effectiveness can be quantified through its performance on various d
 ## Visualization with Grad-CAM
 ![Visualization with Grad-CAM](Images/fig15.png)
 
+## Demonstration
+
+Here is a quick demonstration of the application in action:
+
+![Application Demo](Images/demo.gif)
+
+
 ## Running the Model
 
 To train the model, simply run the training script `train.py`. Ensure that your dataset is prepared and structured correctly.
