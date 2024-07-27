@@ -12,6 +12,13 @@ U-Net Focus+ CBAM is an advanced version of the U-Net model designed to enhance 
 - **Multi-Scale Integration**: Combines features from different layers to preserve high-resolution details and contextual information.
 - **Residual Blocks**: Utilized in the bottleneck layers to allow efficient gradient flow and improve learning capability.
 
+
+## Demonstration
+
+Firstly, I introduce my demo app to help you have an overview. Here is a quick demonstration of the application in action:
+
+![Application Demo](demo.gif)
+
 ## Performance
 
 The U-Net Focus+ CBAM model has been tested on multiple datasets, including CVC-ClinicDB, Kvasir-SEG, CVC-ColonDB, and ETIS-Larib, demonstrating superior performance in terms of Dice coefficient and mean Intersection over Union (mIOU).
@@ -26,12 +33,6 @@ The model's effectiveness can be quantified through its performance on various d
 
 ## Visualization with Grad-CAM
 ![Visualization with Grad-CAM](Images/fig15.png)
-
-## Demonstration
-
-Here is a quick demonstration of the application in action:
-
-![Application Demo](demo.gif)
 
 
 ## Running the Model
