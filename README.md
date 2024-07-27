@@ -2,7 +2,8 @@
 
 ## Introduction
 
-U-Net Focus+ CBAM is an advanced version of the U-Net model designed to enhance the accuracy and efficiency of polyp segmentation in endoscopic images. This model integrates Focus mechanisms at multiple scales, combined with the Convolutional Block Attention Module (CBAM), to significantly improve performance over traditional U-Net models. The primary goal of this architecture is to provide more accurate diagnostic tools for clinical practice by effectively identifying and segmenting polyps in medical images. This work has been recognized at the ICIT 2024 conference.
+U-Net Focus+ CBAM is an advanced version of the U-Net model designed to enhance the accuracy and efficiency of polyp segmentation in endoscopic images. This model integrates Focus mechanisms at multiple scales, combined with the Convolutional Block Attention Module (CBAM), to significantly improve performance over traditional U-Net models. The primary goal of this architecture is to provide more accurate diagnostic tools for clinical practice by effectively identifying and segmenting polyps in medical images. **This work has been recognized at the ICIT 2024 conference.**
+
 
 
 ## Features
