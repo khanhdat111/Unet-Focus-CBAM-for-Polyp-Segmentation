@@ -31,7 +31,7 @@ The model's effectiveness can be quantified through its performance on various d
 
 Here is a quick demonstration of the application in action:
 
-![Application Demo](Images/demo.gif)
+![Application Demo](demo.gif)
 
 
 ## Running the Model
